@@ -1,4 +1,4 @@
-baseURL = "b1d-farewell.github.io"
+baseURL = "https://b1d-farewell.github.io/"
 title = "Day in and day out"
 theme = "hugo-coder"
 languageCode = "en"
