@@ -4,4 +4,4 @@
 	url = https://github.com/shaform/hugo-theme-den
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
-	url = https://github.com/luizdepra/hugo-coder
+	url = https://github.com/b1d-farewell/hugo-coder
