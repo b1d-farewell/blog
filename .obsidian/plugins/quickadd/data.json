@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "id": "7c96a74c-dea2-4007-85df-730221ed72a2",
+      "name": "Macro: New Blog",
+      "type": "Macro",
+      "command": true,
+      "macroId": "f6452c50-a306-4b04-8fbf-5253169f83a6"
+    }
+  ],
+  "macros": [
+    {
+      "name": "NewBlog",
+      "id": "f6452c50-a306-4b04-8fbf-5253169f83a6",
+      "commands": [
+        {
+          "name": "new_blog",
+          "type": "UserScript",
+          "id": "d35ce71a-9b59-4c3d-a9aa-d3f537fe66be",
+          "path": "obs_sctipts/new_blog.js",
+          "settings": {}
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}
