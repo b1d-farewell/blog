@@ -1,7 +1,7 @@
 # ------------------------------------- #
 # ---- General Settings --------------- #
 # ------------------------------------- #
-baseURL = "https://example.com"
+baseURL = "b1d-farewell.github.io"
 title = "Den"
 theme = "hugo-theme-den"
 #enableRobotsTXT = true       # generate robots.txt
