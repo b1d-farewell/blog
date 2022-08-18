@@ -1,18 +1,7 @@
 +++ 
 date = 2022-08-19
 title = "expression - strange behavior of std::cout in c++ - Stack Overflow"
-description = "#include &lt;iostream&gt;
-
-int a(int &amp;x) {
-    x = -1;
-    return x;
-}
-
-int main () {
-    int x = 5;
-    std::cout &lt;&lt; a(x) &lt;&lt; " " &lt;&lt; x &lt;&lt; std::endl;
-}
-Why output is "-1..."
+description = ""
 slug = ""
 authors = []
 tags = []
