@@ -1,5 +1,8 @@
 [
   "quickadd",
   "obsidian-image-auto-upload-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-local-rest-api",
+  "obsidian42-brat",
+  "simpread"
 ]
